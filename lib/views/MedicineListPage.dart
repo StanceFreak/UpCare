@@ -1,5 +1,5 @@
-import 'package:emr_mobile/services/APIServices.dart';
-import 'package:emr_mobile/views/ShimmerEffect.dart';
+import 'package:UpCare/services/APIServices.dart';
+import 'package:UpCare/views/ShimmerEffect.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 

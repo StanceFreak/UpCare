@@ -2,8 +2,8 @@ import 'dart:convert';
 import 'dart:developer';
 import 'dart:io';
 
-import 'package:emr_mobile/model/ArticleResponse.dart';
-import 'package:emr_mobile/model/Results.dart';
+import 'package:UpCare/model/ArticleResponse.dart';
+import 'package:UpCare/model/Results.dart';
 import 'package:http/http.dart' as http;
 
 class APIServices {

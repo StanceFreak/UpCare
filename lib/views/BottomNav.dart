@@ -1,8 +1,8 @@
-import 'package:emr_mobile/views/HomePage.dart';
-import 'package:emr_mobile/views/ProfilePage.dart';
-import 'package:emr_mobile/views/QRCodePage.dart';
+import 'package:UpCare/views/HomePage.dart';
+import 'package:UpCare/views/ProfilePage.dart';
+import 'package:UpCare/views/QRCodePage.dart';
 import 'package:flutter/material.dart';
-import 'package:emr_mobile/nav_icons_icons.dart';
+import 'package:UpCare/nav_icons_icons.dart';
 import 'package:fluttertoast/fluttertoast.dart';
 
 class BottomNav extends StatefulWidget {

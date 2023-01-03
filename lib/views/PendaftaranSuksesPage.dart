@@ -1,7 +1,7 @@
-import 'package:emr_mobile/model/FirebaseUser.dart';
-import 'package:emr_mobile/success_icon_icons.dart';
-import 'package:emr_mobile/views/BottomNav.dart';
-import 'package:emr_mobile/views/HomePage.dart';
+import 'package:UpCare/model/FirebaseUser.dart';
+import 'package:UpCare/success_icon_icons.dart';
+import 'package:UpCare/views/BottomNav.dart';
+import 'package:UpCare/views/HomePage.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';

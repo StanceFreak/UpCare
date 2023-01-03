@@ -1,6 +1,6 @@
 import 'package:email_validator/email_validator.dart';
-import 'package:emr_mobile/views/BottomNav.dart';
-import 'package:emr_mobile/views/HomePage.dart';
+import 'package:UpCare/views/BottomNav.dart';
+import 'package:UpCare/views/HomePage.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';

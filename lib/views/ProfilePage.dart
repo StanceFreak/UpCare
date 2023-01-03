@@ -1,6 +1,6 @@
-import 'package:emr_mobile/views/LandingPage.dart';
-import 'package:emr_mobile/views/RawatInapPage.dart';
-import 'package:emr_mobile/views/RiwayatPendaftaranPage.dart';
+import 'package:UpCare/views/LandingPage.dart';
+import 'package:UpCare/views/RawatInapPage.dart';
+import 'package:UpCare/views/RiwayatPendaftaranPage.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:firebase_database/ui/firebase_animated_list.dart';

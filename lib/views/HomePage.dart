@@ -2,21 +2,21 @@ import 'dart:developer';
 import 'dart:io';
 
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:emr_mobile/custom_icons_icons.dart';
-import 'package:emr_mobile/model/ArticleResponse.dart';
-import 'package:emr_mobile/nav_icons_icons.dart';
-import 'package:emr_mobile/services/APIServices.dart';
-import 'package:emr_mobile/views/BMICalculatorPage.dart';
-import 'package:emr_mobile/views/CekKesehatanPage.dart';
-import 'package:emr_mobile/views/KonsultasiDokterPage.dart';
-import 'package:emr_mobile/views/MedicineCategoriesPage.dart';
-import 'package:emr_mobile/views/RawatInapPage.dart';
-import 'package:emr_mobile/views/RawatJalanPage.dart';
-import 'package:emr_mobile/views/ShimmerEffect.dart';
+import 'package:UpCare/custom_icons_icons.dart';
+import 'package:UpCare/model/ArticleResponse.dart';
+import 'package:UpCare/nav_icons_icons.dart';
+import 'package:UpCare/services/APIServices.dart';
+import 'package:UpCare/views/BMICalculatorPage.dart';
+import 'package:UpCare/views/CekKesehatanPage.dart';
+import 'package:UpCare/views/KonsultasiDokterPage.dart';
+import 'package:UpCare/views/MedicineCategoriesPage.dart';
+import 'package:UpCare/views/RawatInapPage.dart';
+import 'package:UpCare/views/RawatJalanPage.dart';
+import 'package:UpCare/views/ShimmerEffect.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:emr_mobile/model/Results.dart';
+import 'package:UpCare/model/Results.dart';
 import 'RegisterUser.dart';
 
 class HomePage extends StatefulWidget {

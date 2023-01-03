@@ -1,5 +1,5 @@
-import 'package:emr_mobile/model/Poli.dart';
-import 'package:emr_mobile/views/PendaftaranSuksesPage.dart';
+import 'package:UpCare/model/Poli.dart';
+import 'package:UpCare/views/PendaftaranSuksesPage.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';

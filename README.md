@@ -1,4 +1,4 @@
-# emr_mobile
+# UpCare
 
 A new Flutter project.
 

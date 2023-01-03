@@ -1,6 +1,6 @@
 {
-    "name": "emr_mobile",
-    "short_name": "emr_mobile",
+    "name": "UpCare",
+    "short_name": "UpCare",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

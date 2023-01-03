@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(emr_mobile LANGUAGES CXX)
+project(UpCare LANGUAGES CXX)
 
-set(BINARY_NAME "emr_mobile")
+set(BINARY_NAME "UpCare")
 
 cmake_policy(SET CMP0063 NEW)
 

@@ -1,9 +1,9 @@
 import 'dart:developer';
 
-import 'package:emr_mobile/services/FirebaseService.dart';
-import 'package:emr_mobile/views/HomePage.dart';
-import 'package:emr_mobile/views/LoginUser.dart';
-import 'package:emr_mobile/views/RegisterUser.dart';
+import 'package:UpCare/services/FirebaseService.dart';
+import 'package:UpCare/views/HomePage.dart';
+import 'package:UpCare/views/LoginUser.dart';
+import 'package:UpCare/views/RegisterUser.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/gestures.dart';

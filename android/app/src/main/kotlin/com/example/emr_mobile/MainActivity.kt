@@ -1,4 +1,4 @@
-package com.example.emr_mobile
+package com.example.UpCare
 
 import io.flutter.embedding.android.FlutterActivity
 

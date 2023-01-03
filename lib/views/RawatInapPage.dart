@@ -3,8 +3,8 @@ import 'dart:io';
 import 'dart:math';
 
 import 'package:email_validator/email_validator.dart';
-import 'package:emr_mobile/model/Poli.dart';
-import 'package:emr_mobile/views/PendaftaranSuksesPage.dart';
+import 'package:UpCare/model/Poli.dart';
+import 'package:UpCare/views/PendaftaranSuksesPage.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:firebase_storage/firebase_storage.dart';

@@ -1,8 +1,8 @@
-import 'package:emr_mobile/views/BottomNav.dart';
-import 'package:emr_mobile/views/HomePage.dart';
-import 'package:emr_mobile/views/LandingPage.dart';
-import 'package:emr_mobile/views/MedicineCategoriesPage.dart';
-import 'package:emr_mobile/views/PendaftaranSuksesPage.dart';
+import 'package:UpCare/views/BottomNav.dart';
+import 'package:UpCare/views/HomePage.dart';
+import 'package:UpCare/views/LandingPage.dart';
+import 'package:UpCare/views/MedicineCategoriesPage.dart';
+import 'package:UpCare/views/PendaftaranSuksesPage.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';

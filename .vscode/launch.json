@@ -5,20 +5,20 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "emr_mobile",
+      "name": "UpCare",
       "request": "launch",
       "type": "dart",
       "program": "lib/views/main.dart"
     },
     {
-      "name": "emr_mobile (profile mode)",
+      "name": "UpCare (profile mode)",
       "request": "launch",
       "type": "dart",
       "flutterMode": "profile",
       "program": "lib/views/main.dart"
     },
     {
-      "name": "emr_mobile (release mode)",
+      "name": "UpCare (release mode)",
       "request": "launch",
       "type": "dart",
       "flutterMode": "release",

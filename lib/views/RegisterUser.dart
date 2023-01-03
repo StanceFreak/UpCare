@@ -1,8 +1,8 @@
 import 'dart:developer';
 
 import 'package:email_validator/email_validator.dart';
-import 'package:emr_mobile/model/FirebaseUser.dart';
-import 'package:emr_mobile/views/LoginUser.dart';
+import 'package:UpCare/model/FirebaseUser.dart';
+import 'package:UpCare/views/LoginUser.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';

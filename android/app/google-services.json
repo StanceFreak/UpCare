@@ -8,6 +8,43 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:108348667785:android:97cfc405ed38afcc1d5358",
+        "android_client_info": {
+          "package_name": "com.example.UpCare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108348667785-f5pfd1sean2k6d2pb428si05dmuns2jj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.UpCare",
+            "certificate_hash": "6c37195525492b89059e7504c7ae5e0044212757"
+          }
+        },
+        {
+          "client_id": "108348667785-8ep9kr15j7oudg1ccvekop25r7hrr4gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkX35ruUayp8QVF4xBZ41SigzSjKgi1g8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108348667785-8ep9kr15j7oudg1ccvekop25r7hrr4gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:108348667785:android:85642ffb49b572671d5358",
         "android_client_info": {
           "package_name": "com.example.emr_mobile"
